@@ -22,7 +22,7 @@ Multithreaded classical multiplication time: 67,107 ms
 Coo multiplication time: 29 ms
 Multithreaded Coo multiplication time: 9 ms
 ```
-This gives us a 19000x speedup on calculation compared to the single-threaded implementation, which gets even more for matrices of bigger sizes.
+This gives us a 19,000x speedup on calculation compared to the single-threaded implementation, which gets even more for matrices of bigger sizes.
 
 ## What is COO Representation
 #### From Wikipedia
